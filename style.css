@@ -1,0 +1,79 @@
+.navbar{
+  margin: 0 15px 0 0;
+  padding: 6px;
+}
+
+.navbar-right{
+  float: right;
+}
+
+.Google-정보{
+  margin: 0 5px 0 15px;
+  padding: 5px;
+}
+
+.스토어{
+  margin: 0 5px;
+  padding: 5px;
+}
+
+.Gmail{
+  margin: 0 15px 0 0;
+}
+
+.이미지{
+  margin: 0 15px 0 0;
+}
+
+a{
+  color: #202124;
+  text-decoration: none;
+  font-family: Apple SD Gothic Neo,arial,sans-serif;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+.main{
+  text-align: center;
+  margin-top: 150px;
+}
+
+.input-box{
+  width: 352.7px;
+  height: 46px;
+  padding: 5px 8px 0 14px;
+  border: 1px solid #dfe1e5;
+  box-shadow: none;
+  border-radius: 24px;
+  padding: 0 130px 0 60px;
+}
+
+.input-align{
+  padding: 20px;
+}
+
+.search-icon{
+  position: relative;
+  left: 40px;
+  color: #9aa0a6;
+}
+
+.keyboard-icon{
+  position: relative;
+  right: 110px;
+  color: #9aa0a6;
+}
+
+.micro-icon{
+  position: relative;
+  right: 95px;
+  color: #9aa0a6;
+}
+
+.camera-icon{
+  position: relative;
+  right: 80px;
+  color: #9aa0a6;
+}
