@@ -138,3 +138,8 @@ a:hover{
 .second-line-second{
   float: right;
 }
+
+body{
+  margin: 0;
+  padding: 0;
+}
