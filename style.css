@@ -111,3 +111,30 @@ a:hover{
     cursor: pointer;
     user-select: none;
 }
+
+.footer{
+  position: absolute;
+  bottom: 0px;
+  background: #f2f2f2;
+  width: 100%; /*부모의 100%*/
+}
+
+.대한민국{
+  padding: 15px 30px;
+  border-bottom: 1px solid #dadce0;
+  font-size: 15px;
+  color: #202124;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.second-line{
+  padding: 15px 30px;
+  font-size: 15px;
+  color: #202124;
+}
+
+.second-line-second{
+  float: right;
+}
